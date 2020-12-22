@@ -15,5 +15,11 @@ export default DireflowComponent.create({
         },
       },
     },
+    {
+      name: 'icon-loader',
+      options: {
+        packs: ['material-icons']
+      }
+    }
   ],
 });
